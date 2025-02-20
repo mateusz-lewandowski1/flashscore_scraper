@@ -5,8 +5,7 @@ Requirements
 Python 3.12
 Playwright (pip install playwright)
 pandas (pip install pandas)
-
-
+Usage
 The scraped data will be saved in a file called flashscore_results.csv.
 
 Output
@@ -18,6 +17,7 @@ score_home: Home team score
 score_away: Away team score
 away_teams: Away teams
 
-IDE output of first 5 rows
+Example IDE Output (first 5 rows)
 
-![image](https://github.com/user-attachments/assets/4ca94c59-751d-4e18-9f47-050bd0387447)
+![image](https://github.com/user-attachments/assets/157b120c-1ebe-4eea-b0d1-7ef54c76bab6)
+

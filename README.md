@@ -13,7 +13,7 @@ score_home: Home team score
 score_away: Away team score
 away_teams: Away teams
 
-## Example IDE Output (first 5 rows)
+## IDE Output (first 5 rows)
 
 ![image](https://github.com/user-attachments/assets/157b120c-1ebe-4eea-b0d1-7ef54c76bab6)
 
